@@ -1,0 +1,10 @@
+data/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Artefactos grandes del Componente 1, se regeneran corriendo el notebook
+artifacts/sequences.npz
+artifacts/meta.json
+artifacts/test_tx.parquet
+artifacts/test_tx.csv.gz
